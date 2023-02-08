@@ -1,4 +1,3 @@
-
 const countdownTime = 25
 let countdownLenth = countdownTime * 60000
 
